@@ -1,5 +1,6 @@
 Algoritmo "exemplocod1"
 Segunda Alteração para exemplificar para a Turma
+Alteração Arthur
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
