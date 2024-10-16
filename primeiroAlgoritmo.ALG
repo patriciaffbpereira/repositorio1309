@@ -13,5 +13,6 @@ Var
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
     escreva("Hello World !!")
+    escreva("Atualização via Visual Studio Code !!!!)
 
 Fimalgoritmo
