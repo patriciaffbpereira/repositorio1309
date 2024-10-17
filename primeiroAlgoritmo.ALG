@@ -16,5 +16,6 @@ Inicio
     escreva("Atualização via Visual Studio Code !!!!)
     escreva("Atualização VS Code Noite !! ")
     escreva("TESTANDO VS CODE NOITE DE 16-10")
+    ESCREVA("comitando !!!")
 
 Fimalgoritmo
